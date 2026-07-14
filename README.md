@@ -1,16 +1,33 @@
-# SALES
+# SALES - Sales Management & Analytics Dashboard
 
-My first GitHub project.
+A lightweight web-based sales management and analytics tool designed to help companies monitor sales performance, customer activities, and business indicators.
 
-## Description
+## Overview
 
-A simple web page built using HTML and CSS.
+SALES is an open-source project developed to simplify sales monitoring and reporting.
 
-## Technologies
+The system helps sales managers analyze:
+
+- Sales performance
+- Regional sales comparison
+- Monthly and yearly trends
+- Customer follow-up activities
+- Sales team performance
+
+## Features
+
+✅ Sales dashboard  
+✅ Data analysis and reporting  
+✅ Sales performance monitoring  
+✅ Customer management support  
+✅ Responsive web interface  
+✅ Simple and lightweight architecture  
+
+## Technology Stack
 
 - HTML5
 - CSS3
+- JavaScript
+- Web-based interface
 
-## Author
-
-Moein Goodarzi
+## Project Structure
