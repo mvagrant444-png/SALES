@@ -31,3 +31,14 @@ The system helps sales managers analyze:
 - Web-based interface
 
 ## Project Structure
+## Current Status
+
+Version: 1.0.0
+
+The project is currently under active development.
+
+Recent improvements:
+- Added project documentation
+- Added open source license
+- Improved repository organization
+- Preparing future sales analytics features
